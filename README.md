@@ -1,4 +1,4 @@
-Predmachlearn-002: Prediction Assignment Writeup
+Using Random Forest Classification to Predict Activity Recorded from Fitness Device
 ========================================================
 By: Polong Lin
 
